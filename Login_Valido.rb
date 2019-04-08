@@ -1,4 +1,4 @@
-# Importamos las librerias o scripts necesarias
+# Importamos las librerias o scripts necesariass
 require '../Login.rb'
 
 puts "** Test 1: Login Válido **\n"
